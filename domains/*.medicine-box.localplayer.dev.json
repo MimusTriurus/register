@@ -1,0 +1,17 @@
+{
+    "description": "The domain is used for non-commercial purposes. The project is a telegram bot designed to keep track of medicines in a first-aid kit.",
+
+    "domain": "localplayer.dev",
+    "subdomain": "*.medicine-box",
+
+    "owner": {
+        "repo": "https://github.com/MimusTriurus/medicine_box",
+        "email": "stendhal.syndrome.studio@gmail.com"
+    },
+
+    "record": {
+        "A": ["194.87.103.187"]
+    },
+
+    "proxied": false
+}
